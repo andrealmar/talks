@@ -21,3 +21,23 @@ Install Minikube: https://github.com/kubernetes/minikube/releases
 Setup Minikube: https://kubernetes.io/docs/setup/minikube/
 
 ## LAB 02
+
+### Run your 1st Container
+
+`docker run -it --name firstContainer alpine /bin/sh`
+
+### Run our application on a Container
+
+ `cd app/`
+
+ `docker-compose up --build`
+
+After you typed the commands above, the container will be up and running and you can start making service calls via browser or using curl:
+
+ADD: `http://localhost:5000/add?a=1&b=5` | Ex. 1 + 5 = 6
+
+SUBTRACT: `http://localhost:5000/subtract?a=1&b=5` | Ex. 1 - 5 = -4
+
+MULTIPLY: `http://localhost:5000/multiply?a=2&b=5` | Ex. 2 * 5 = 10
+
+DIVIDE: `http://localhost:5000/divide?a=10&b=2` | Ex. 10 / 2 = 5

@@ -1,0 +1,13 @@
+version: "2"
+
+services:
+  www:
+    build: www
+    ports:
+      - 5000:5000
+    user: nobody
+    environment:
+      DEBUG: 1
+    command: python app.py
+    volumes:
+      - ./www:/src
