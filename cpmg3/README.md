@@ -106,3 +106,64 @@ The answer will be:
 `Hello #CPMG3 !!!`
 
 ## LAB 04
+
+Check how many pods we have running:
+
+`kubectl get pods`
+
+We just have ONE pod running:
+
+```shell
+NAME                                 READY     STATUS    RESTARTS   AGE
+my-calculator-app-599576dd47-rzblq   1/1       Running   0          20m
+```
+
+Let's scale our app:
+
+`kubectl scale deploy my-calculator-app --replicas=5`
+
+```shell
+$ kubectl get pods
+
+NAME                                 READY     STATUS    RESTARTS   AGE
+my-calculator-app-599576dd47-j2lks   1/1       Running   0          1m
+my-calculator-app-599576dd47-nshkv   1/1       Running   0          1m
+my-calculator-app-599576dd47-rzblq   1/1       Running   0          22m
+my-calculator-app-599576dd47-s2kd9   1/1       Running   0          1m
+my-calculator-app-599576dd47-sqdkt   1/1       Running   0          1m
+```
+When we asked Kubernetes to scale our _my-calculator-app_ deployment, a **ReplicaSet** was created. A ReplicaSet ensures that a specified number of pod replicas are running *at any given time.*
+
+Now, try to delete some pods:
+
+`kubectl delete pods my-calculator-app-599576dd47-j2lks my-calculator-app-599576dd47-nshkv`
+
+ ```shell
+$ kubectl get pods
+
+NAME                                 READY     STATUS              RESTARTS   AGE
+my-calculator-app-599576dd47-46ctd   0/1       ContainerCreating   0          6s
+my-calculator-app-599576dd47-j2lks   1/1       Terminating         0          2m
+my-calculator-app-599576dd47-nshkv   1/1       Terminating         0          2m
+my-calculator-app-599576dd47-rzblq   1/1       Running             0          23m
+my-calculator-app-599576dd47-s2kd9   1/1       Running             0          2m
+my-calculator-app-599576dd47-sqdkt   1/1       Running             0          2m
+my-calculator-app-599576dd47-tkbvg   0/1       ContainerCreating   0          6s
+ ```
+
+ It doesn't matter if you have deleted two or more pods, new pods have been created to keep the infrastructure the way you described when you scaled to 5 replicas! The service continues to keep track of all pods and route traffic to them as soon as they are available.
+
+ Now you can *downscale* our calculator application to one Pod again:
+
+ `kubectl scale deploy my-calculator-app --replicas=1 `
+
+## LAB 05
+
+Creating a Namespace:
+
+`kubectl create ns calculator-stg`
+
+**OR**
+
+`kubectl apply -f namespace.yml`
+

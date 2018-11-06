@@ -1,0 +1,24 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: my-calculator-app-deployment
+  namespace: calculator-stg
+spec:
+  replicas: 5
+  template:
+    metadata:
+      labels:
+        app: my-calculator-app
+    spec:
+      containers:
+        - name: my-calculator
+          image: andrealmar/calculator:latest
+          imagePullPolicy: Always
+          resources:
+            limits:
+              cpu: 400m
+              memory: 300Mi
+            requests:
+              cpu: 200m
+              memory: 150Mi
+
