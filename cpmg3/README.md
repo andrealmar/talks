@@ -167,3 +167,18 @@ Creating a Namespace:
 
 `kubectl apply -f namespace.yml`
 
+Deployment of our Calculator app:
+
+`kubectl apply -f deployment.yml`
+
+Exposing our Deployment:
+
+`kubectl apply -f service.yml`
+
+Check your port: 
+
+`kubectl get services`
+
+Access your app:
+
+`YOUR_MINIKUBE_IP:PORT`
