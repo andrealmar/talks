@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "it's working..."
+    return "Hello #CPMG3 !!!"
 
 @app.route("/add") # exemplo de chamada URL: http://localhost:5000/add?a=1&b=5
 def add():
