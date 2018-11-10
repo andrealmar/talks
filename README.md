@@ -9,8 +9,7 @@ Talks I've given at some events
 ## 20º Meetup Python MG
 * https://www.meetup.com/PythonMG/events/jshnqlyvfbqb/
 
-![](/img/sre_devops_programming_lang.png "SRE/DevOps Programming Languages")
-![](/img/sre_devops_programming_lang.png "SRE/DevOps Programming Languages")
+![](/img/20_meetup_python_mg_photo_1.jpeg "20º Meetup Python BH")
 
 ## 26º Meetup Python MG
 * https://www.meetup.com/PythonMG/events/jshnqlyvnblb/
