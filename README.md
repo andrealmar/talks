@@ -6,13 +6,13 @@ Talks I've given at some events
 ## Campus Party MG 3 - November 7, 2018
 * http://brasil.campus-party.org/cpmg3/agenda-cpmg3/
 
-![](/img/cpmg3_4jpeg "3º Campus Party MG")
+![](/img/cpmg3_4jpg "3º Campus Party MG")
 
-![](/img/cpmg3_1.jpeg "3º Campus Party MG")
+![](/img/cpmg3_1.jpg "3º Campus Party MG")
 
-![](/img/cpmg3_2.jpeg "3º Campus Party MG")
+![](/img/cpmg3_2.jpg "3º Campus Party MG")
 
-![](/img/cpmg3_3.jpeg "3º Campus Party MG")
+![](/img/cpmg3_3.jpg "3º Campus Party MG")
 
 ## 1º Meetup DevOps BH - May 2, 2017
 * https://www.meetup.com/DevOps-Belo-Horizonte/events/238929833/
