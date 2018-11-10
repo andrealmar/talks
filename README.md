@@ -14,4 +14,5 @@ Talks I've given at some events
 ![](/img/sre_devops_programming_lang.png "SRE/DevOps Programming Languages")
 ## 1º Meetup DevOps BH
 * https://www.meetup.com/DevOps-Belo-Horizonte/events/238929833/
+
 ![](/img/1_meetup_devops_bh.jpeg "1º Meetup DevOps BH")
