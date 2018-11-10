@@ -6,10 +6,10 @@ Talks I've given at some events
 ## Campus Party MG 3
 *
 
-## 20º Meetup Python MG
-* https://www.meetup.com/PythonMG/events/jshnqlyvfbqb/
+## 1º Meetup DevOps BH
+* https://www.meetup.com/DevOps-Belo-Horizonte/events/238929833/
 
-![](/img/20_meetup_python_mg_photo_1.jpeg "20º Meetup Python BH")
+![](/img/1_meetup_devops_bh.jpeg "1º Meetup DevOps BH")
 
 ## 26º Meetup Python MG
 * https://www.meetup.com/PythonMG/events/jshnqlyvnblb/
@@ -17,7 +17,7 @@ Talks I've given at some events
 ![](/img/26_meetup_python_mg_photo_1.jpeg "26º Meetup Python BH")
 ![](/img/26_meetup_python_mg_photo_2.jpeg "26º Meetup Python BH")
 
-## 1º Meetup DevOps BH
-* https://www.meetup.com/DevOps-Belo-Horizonte/events/238929833/
+## 20º Meetup Python MG
+* https://www.meetup.com/PythonMG/events/jshnqlyvfbqb/
 
-![](/img/1_meetup_devops_bh.jpeg "1º Meetup DevOps BH")
+![](/img/20_meetup_python_mg_photo_1.jpeg "20º Meetup Python BH")
