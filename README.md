@@ -6,7 +6,7 @@ Talks I've given at some events
 ## Campus Party MG 3 - November 7, 2018
 * http://brasil.campus-party.org/cpmg3/agenda-cpmg3/
 
-![](/img/cpmg3_4jpg "3º Campus Party MG")
+![](/img/cpmg3_4.jpg "3º Campus Party MG")
 
 ![](/img/cpmg3_1.jpg "3º Campus Party MG")
 
