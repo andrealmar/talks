@@ -15,8 +15,8 @@ Talks I've given at some events
 ## 26º Meetup Python MG
 * https://www.meetup.com/PythonMG/events/jshnqlyvnblb/
 
-![](/img/26_meetup_python_mg_photo_1.jpeg "26º Meetup DevOps BH")
-![](/img/26_meetup_python_mg_photo_2.jpeg "26º Meetup DevOps BH")
+![](/img/26_meetup_python_mg_photo_1.jpeg "26º Meetup Python BH")
+![](/img/26_meetup_python_mg_photo_2.jpeg "26º Meetup Python BH")
 
 ## 1º Meetup DevOps BH
 * https://www.meetup.com/DevOps-Belo-Horizonte/events/238929833/
