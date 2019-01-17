@@ -1,7 +1,13 @@
 Talks I've given at some events
 
+## 2nd Cyber Security Academy - January 17, 2018
+* TBA
+
+## Simply Meetup - January 11, 2018
+* TBA
+
 ## Google DevFest 2018 - November 10, 2018
-* TBD
+* TBA
 
 ## Campus Party MG 3 - November 7, 2018
 * http://brasil.campus-party.org/cpmg3/agenda-cpmg3/
