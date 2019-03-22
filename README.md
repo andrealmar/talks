@@ -1,4 +1,13 @@
-Talks I've given at some events
+Talks and Workshops I've given
+
+## GDG Cloud Meetup - April 5, 2019
+* TBA
+
+## 1st Kubernetes Bootcamp - March 30, 2019
+* TBA
+
+## 1st Meetup Seidor DevOps - March 18, 2019
+* TBA
 
 ## 2nd Cyber Security Academy - January 17, 2018
 * TBA
