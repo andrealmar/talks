@@ -19,7 +19,15 @@ Talks and Workshops I've given
 * TBA
 
 ## Google DevFest 2018 - November 10, 2018
-* TBA
+* https://www.devfestbh.com
+
+![](/img/gdg_devfest_1.jpg "GDG DevFest 2018")
+
+![](/img/gdg_devfest_2.jpg "GDG DevFest 2018")
+
+![](/img/gdg_devfest_3.jpg "GDG DevFest 2018")
+
+![](/img/gdg_devfest_4.jpg "GDG DevFest 2018")
 
 ## Campus Party MG 3 - November 7, 2018
 * http://brasil.campus-party.org/cpmg3/agenda-cpmg3/
