@@ -1,9 +1,12 @@
 Talks and Workshops I've given
 
-## GDG Cloud Meetup - April 5, 2019
+## GDG (Google Developers Group) Cloud Meetup - April 5, 2019
 * TBA
 
 ## 1st Kubernetes Bootcamp - March 30, 2019
+* TBA
+
+## Mereo JAM DevOps Meetup - March 28, 2019
 * TBA
 
 ## 1st Meetup Seidor DevOps - March 18, 2019
