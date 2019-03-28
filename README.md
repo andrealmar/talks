@@ -12,10 +12,10 @@ Talks and Workshops I've given
 ## 1st Meetup Seidor DevOps - March 18, 2019
 * TBA
 
-## 2nd Cyber Security Academy - January 17, 2018
+## 2nd Cyber Security Academy - January 17, 2019
 * TBA
 
-## Simply Meetup - January 11, 2018
+## Simply Meetup - January 11, 2019
 * TBA
 
 ## Google DevFest 2018 - November 10, 2018
