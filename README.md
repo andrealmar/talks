@@ -22,7 +22,13 @@ Talks and Workshops I've given
 * TBA
 
 ## 2nd Cyber Security Academy - January 17, 2019
-* TBA
+* https://www.meetup.com/infosecbh/events/258004334/
+
+![](/img/2_cyber_security_academy_1.jpg "Cyber Security Academy Meetup 2019")
+
+![](/img/2_cyber_security_academy_2.jpg "Cyber Security Academy Meetup 2019")
+
+![](/img/2_cyber_security_academy_3.jpg "Cyber Security Academy Meetup 2019")
 
 ## Simply Meetup - January 11, 2019
 
