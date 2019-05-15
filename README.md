@@ -26,7 +26,15 @@ Talks and Workshops I've given
 ![](/img/mereo_jam_4.jpg)
 
 ## 1st Meetup Seidor DevOps - March 18, 2019
-* TBA
+
+![](/img/seidor_1.jpg)
+
+![](/img/seidor_2.jpg)
+
+![](/img/seidor_3.jpg)
+
+![](/img/seidor_4.jpg)
+
 
 ## 2nd Cyber Security Academy - January 17, 2019
 * https://www.meetup.com/infosecbh/events/258004334/
