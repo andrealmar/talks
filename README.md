@@ -25,7 +25,14 @@ Talks and Workshops I've given
 * TBA
 
 ## Simply Meetup - January 11, 2019
-* TBA
+
+![](/img/simply_meetup_0.jpg "Simply Meetup 2019")
+
+![](/img/simply_meetup_1.jpg "Simply Meetup 2019")
+
+![](/img/simply_meetup_2.jpg "Simply Meetup 2019")
+
+![](/img/simply_meetup_3.jpg "Simply Meetup 2019")
 
 ## Google DevFest 2018 - November 10, 2018
 * https://www.devfestbh.com
