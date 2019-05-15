@@ -13,7 +13,16 @@ Talks and Workshops I've given
 ![](/img/gdg_cloud_meetup_3.jpg "GDG Cloud Meetup 2019")
 
 ## 1st Kubernetes Bootcamp - March 30, 2019
-* TBA
+
+![](/img/1_k8s_bootcamp_1.jpg)
+
+![](/img/1_k8s_bootcamp_2.jpg)
+
+![](/img/1_k8s_bootcamp_3.jpg)
+
+![](/img/1_k8s_bootcamp_4.jpg)
+
+![](/img/1_k8s_bootcamp_5.jpg)
 
 ## Mereo JAM DevOps Meetup - March 28, 2019
 
