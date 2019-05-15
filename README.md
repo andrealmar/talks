@@ -1,7 +1,16 @@
 Talks and Workshops I've given
 
+## MULT de Arquitetura - May 16, 2019
+* https://www.sympla.com.br/mult-de-arquitetura__501689?token=5bc7f3d87a31e0174ade06e9cc2be918
+
 ## GDG (Google Developers Group) Cloud Meetup - April 5, 2019
-* TBA
+* https://www.meetup.com/Google-Cloud-Developer-Community-Belo-Horizonte/events/260270449/
+
+![](/img/gdg_cloud_meetup_1.jpg "GDG Cloud Meetup 2019")
+
+![](/img/gdg_cloud_meetup_2.jpg "GDG Cloud Meetup 2019")
+
+![](/img/gdg_cloud_meetup_3.jpg "GDG Cloud Meetup 2019")
 
 ## 1st Kubernetes Bootcamp - March 30, 2019
 * TBA
