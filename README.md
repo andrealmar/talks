@@ -1,5 +1,8 @@
 Talks and Workshops I've given
 
+## DevOps Tour - Jun 10, 2019
+* https://www.sympla.com.br/devops-tour-bh__533184
+
 ## MULT de Arquitetura - May 16, 2019
 * https://www.sympla.com.br/mult-de-arquitetura__501689?token=5bc7f3d87a31e0174ade06e9cc2be918
 
