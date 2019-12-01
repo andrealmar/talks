@@ -1,10 +1,25 @@
 Talks and Workshops I've given
 
+## Imersão Azure Expert - Belo Horizonte - Dec 1, 2019
+* Building Cloud Native Aplications - http://guilhermemaia.com/imersao-azure/
+
+## DevOps Days Belo Horizonte 2019 - Sep 28, 2019
+* Service Mesh - Navegando em um Oceano de Microsserviços: https://www.youtube.com/watch?v=FHHwRZ543co
+
+![](/img/dodbh1.jpg "DevOps Days BH 2019")
+![](/img/dodbh2.jpg "DevOps Days BH 2019")
+![](/img/dodbh3.jpg "DevOps Days BH 2019")
+![](/img/dodbh4.jpg "DevOps Days BH 2019")
+
 ## DevOps Tour - Jun 10, 2019
 * https://www.sympla.com.br/devops-tour-bh__533184
 
 ## MULT de Arquitetura - May 16, 2019
 * https://www.sympla.com.br/mult-de-arquitetura__501689?token=5bc7f3d87a31e0174ade06e9cc2be918
+
+![](/img/cn1.jpg "Mult de Arquitetura 2019")
+![](/img/cn2.jpg "Mult de Arquitetura 2019")
+![](/img/cn3.jpg "Mult de Arquitetura 2019")
 
 ## GDG (Google Developers Group) Cloud Meetup - April 5, 2019
 * https://www.meetup.com/Google-Cloud-Developer-Community-Belo-Horizonte/events/260270449/
