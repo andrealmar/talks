@@ -1,5 +1,13 @@
 Talks and Workshops I've given
 
+## 4th Meetup CNCF (Cloud Native Computing Foundation) Belo Horizonte 2020 - Mar 03, 2020
+* Go - The Cloud Native Language
+
+![](/img/4_cncfbh1.jpg "DevOps Days BH 2019")
+![](/img/4_cncfbh2.jpg "DevOps Days BH 2019")
+![](/img/4_cncfbh3.jpg "DevOps Days BH 2019")
+![](/img/4_cncfbh4.jpg "DevOps Days BH 2019")
+
 ## Imersão Azure Expert - Belo Horizonte - Dec 1, 2019
 * Building Cloud Native Aplications - http://guilhermemaia.com/imersao-azure/
 
