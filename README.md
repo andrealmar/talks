@@ -8,12 +8,25 @@ Talks and Workshops I've given
 ![](/img/rio_cloudcon3.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon4.jpg "Rio Cloud Conference 2020")
 
+## Design Weeks - Out 20, 2020
+* DevOps
+
+![](/img/design_weeks1.jpg "Design Weeks 2020")
+![](/img/design_weeks2.jpg "Design Weeks 2020")
+![](/img/design_weeks3.jpg "Design Weeks 2020")
+![](/img/design_weeks4.jpg "Design Weeks 2020")
+
 ## JUG (Java User Group) Três Fronteiras - Sep 15, 2020
 * Cloud Native Infrastructure & Applications
 
 ![](/img/jug_tresfront1.jpg "JUG Três Fronteiras 2020")
 ![](/img/jug_tresfront2.jpg "JUG Três Fronteiras 2020")
 ![](/img/jug_tresfront3.jpg "JUG Três Fronteiras 2020")
+
+## Live Darede #87 - Aug 20, 2020
+* SLOs, SLIs, SLAs, Error Budgets é DevOps?
+
+![](/img/darede1.jpg "Live Darede #87 2020")
 
 ## DevOps Days Luanda, Angola - Jul 11, 2020
 * DevOps & SRE (Site Reliability Engineering)
