@@ -10,6 +10,7 @@ Talks and Workshops I've given
 
 ## Design Weeks - Out 20, 2020
 * DevOps
+Link: https://www.youtube.com/watch?v=mmDkUmvVNV8
 
 ![](/img/design_weeks1.jpg "Design Weeks 2020")
 ![](/img/design_weeks2.jpg "Design Weeks 2020")
@@ -18,6 +19,7 @@ Talks and Workshops I've given
 
 ## JUG (Java User Group) Três Fronteiras - Sep 15, 2020
 * Cloud Native Infrastructure & Applications
+Link: https://www.youtube.com/watch?v=9prznyYruJE
 
 ![](/img/jug_tresfront1.jpg "JUG Três Fronteiras 2020")
 ![](/img/jug_tresfront2.jpg "JUG Três Fronteiras 2020")
@@ -25,16 +27,26 @@ Talks and Workshops I've given
 
 ## Live Darede #87 - Aug 20, 2020
 * SLOs, SLIs, SLAs, Error Budgets é DevOps?
+Link: https://www.youtube.com/watch?v=2jhSs7YtA4A
 
 ![](/img/darede1.jpg "Live Darede #87 2020")
 
+## Cloud Native Brazil Community Summit - Jul 28, 2020
+* One of the Hosts for the Event
+Link: https://www.youtube.com/watch?v=1KTfUsyrR1Y
+
+![](/img/cncf_brazil_summit1.jpg "Cloud Native Brazil Community Summit 2020")
+![](/img/cncf_brazil_summit2.jpg "Cloud Native Brazil Community Summit 2020")
+
 ## DevOps Days Luanda, Angola - Jul 11, 2020
 * DevOps & SRE (Site Reliability Engineering)
+Link: https://www.facebook.com/Devopsdaysluanda/videos/216194579548124
 
 ![](/img/dod_angola1.jpg "DevOps Days Angola 2020")
 
 ## Talk Expert - Mar 19, 2020
 * Do Zero a Implantação do Kubernetes
+Link: https://www.youtube.com/watch?v=uxBcOrKdLgQ
 
 ![](/img/talk_expert1.jpg "Talk Expert 2020")
 ![](/img/talk_expert2.jpg "Talk Expert 2020")
