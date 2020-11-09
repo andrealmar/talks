@@ -8,6 +8,32 @@ Talks and Workshops I've given
 ![](/img/rio_cloudcon3.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon4.jpg "Rio Cloud Conference 2020")
 
+## JUG (Java User Group) Três Fronteiras - Sep 15, 2020
+* Cloud Native Infrastructure & Applications
+
+![](/img/jug_tresfront1.jpg "JUG Três Fronteiras 2020")
+![](/img/jug_tresfront2.jpg "JUG Três Fronteiras 2020")
+![](/img/jug_tresfront3.jpg "JUG Três Fronteiras 2020")
+
+## DevOps Days Luanda, Angola - Jul 11, 2020
+* DevOps & SRE (Site Reliability Engineering)
+
+![](/img/dod_angola1.jpg "DevOps Days Angola 2020")
+
+## Talk Expert - Mar 19, 2020
+* Do Zero a Implantação do Kubernetes
+
+![](/img/talk_expert1.jpg "Talk Expert 2020")
+![](/img/talk_expert2.jpg "Talk Expert 2020")
+![](/img/talk_expert3.jpg "Talk Expert 2020")
+
+## Mundiale Meetup (Cloud Native Computing Foundation) Belo Horizonte 2020 - Mar 12, 2020
+* Cloud Native Infrastructure
+
+![](/img/mundiale_meetup1.jpg "Mundiale Meetup 2020")
+![](/img/mundiale_meetup2.jpg "Mundiale Meetup 2020")
+![](/img/mundiale_meetup3.jpg "Mundiale Meetup 2020")
+
 ## 4th Meetup CNCF (Cloud Native Computing Foundation) Belo Horizonte 2020 - Mar 03, 2020
 * Go - The Cloud Native Language
 
