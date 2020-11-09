@@ -1,5 +1,13 @@
 Talks and Workshops I've given
 
+## Rio Cloud Conference - Out 17, 2020
+* WebAssembly, Serverless, Cloud Native e o futuro...
+
+![](/img/rio_cloudcon1.jpg "Rio Cloud Conference 2020")
+![](/img/rio_cloudcon2.jpg "Rio Cloud Conference 2020")
+![](/img/rio_cloudcon3.jpg "Rio Cloud Conference 2020")
+![](/img/rio_cloudcon4.jpg "Rio Cloud Conference 2020")
+
 ## 4th Meetup CNCF (Cloud Native Computing Foundation) Belo Horizonte 2020 - Mar 03, 2020
 * Go - The Cloud Native Language
 
