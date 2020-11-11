@@ -92,6 +92,14 @@ Link: https://www.youtube.com/watch?v=uxBcOrKdLgQ
 ![](/img/22_devopsbh_meetup3.jpg "22 DevOps BH Meetup")
 ![](/img/22_devopsbh_meetup4.jpg "22 DevOps BH Meetup")
 
+## Esquenta DevOps Days BH - Jul 06, 2019
+* https://www.meetup.com/DevOps-Belo-Horizonte/events/263936917/
+
+![](/img/esquenta1.jpg "Esquenta DevOps Days BH")
+![](/img/esquenta2.jpg "Esquenta DevOps Days BH")
+![](/img/esquenta3.jpg "Esquenta DevOps Days BH")
+![](/img/esquenta4.jpg "Esquenta DevOps Days BH")
+
 ## DevOps Tour - Jun 10, 2019
 * https://www.sympla.com.br/devops-tour-bh__533184
 
