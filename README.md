@@ -3,12 +3,14 @@ Talks and Workshops I've given
 ## Rio Cloud Conference - Out 17, 2020
 * WebAssembly, Serverless, Cloud Native e o futuro...
 
+Link: https://app.4.events/palestrante-andrealmar-27-c16486
+
 ![](/img/rio_cloudcon1.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon2.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon3.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon4.jpg "Rio Cloud Conference 2020")
 
-Link: https://app.4.events/palestrante-andrealmar-27-c16486
+
 
 ## Design Weeks - Out 20, 2020
 * DevOps
