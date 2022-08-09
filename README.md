@@ -8,6 +8,8 @@ Talks and Workshops I've given
 ![](/img/rio_cloudcon3.jpg "Rio Cloud Conference 2020")
 ![](/img/rio_cloudcon4.jpg "Rio Cloud Conference 2020")
 
+Link: https://app.4.events/palestrante-andrealmar-27-c16486
+
 ## Design Weeks - Out 20, 2020
 * DevOps
 
