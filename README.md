@@ -1,4 +1,23 @@
-Talks and Workshops I've given
+# Talks and Workshops I've given
+
+
+
+## The Developer's Conference Connections (Cloud Track) - Mar 23, 2022
+* A Cloud sem censuras, o que não te contaram sobre o desafio das migrações para a nuvem!
+
+Link: https://thedevconf.com/tdc/2022/connections/trilha-cloud
+
+![](/TDC_Connections_2022/tdc-connections-BH-2022-1.jpeg "The Developer's Conference 2022")
+![](/TDC_Connections_2022/tdc-connections-BH-2022-2.jpeg "The Developer's Conference 2022")
+![](/TDC_Connections_2022/tdc-connections-BH-2022-3.jpeg "The Developer's Conference 2022")
+
+## The Developer's Conference (Microservices Track) - Dec 1, 2021
+* WebAssembly, Serverless, Cloud Native e o futuro...
+
+Link: https://promo.thedevconf.com/future-full-cycle
+
+![](/TDC_2021/Andre_Almar_-_TDC_2021_(Talk).png "The Developer's Conference 2021")
+
 
 ## Rio Cloud Conference - Out 17, 2020
 * WebAssembly, Serverless, Cloud Native e o futuro...
